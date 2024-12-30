@@ -29,7 +29,7 @@ const Description = styled.div`
 `
 
 const PageLink = styled(Link)`
-  margin-top: 30px;
+  margin-top: 31px;
   font-size: 15px;
   color: inherit;
 `
