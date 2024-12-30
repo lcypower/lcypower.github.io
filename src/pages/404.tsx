@@ -19,7 +19,7 @@ const Title = styled.div`
 `
 
 const Description = styled.div`
-  margin-top: 10px;
+  margin-top: 11px;
   font-size: 20px;
   font-weight: 300;
 
