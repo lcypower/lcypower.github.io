@@ -22,7 +22,7 @@ export default function Post({
       <PostBody
         content={contentfulPost?.content?.content as string} // contents 필드 사용
       />
-      <PostProfile
+      {/* <PostProfile
         name={contentfulPost?.author?.name as string}
         role={contentfulPost?.author?.role as string}
         description={contentfulPost?.author?.description?.description as string}
@@ -30,7 +30,7 @@ export default function Post({
           contentfulPost?.author?.avatar?.gatsbyImageData as IGatsbyImageData
         }
         category={contentfulPost?.category as string[]}
-      />
+      /> */}
     </>
   )
 }
@@ -64,16 +64,6 @@ export const query = graphql`
       }
       content {
         content
-      }
-      author {
-        name
-        role
-        description {
-          description
-        }
-        avatar {
-          gatsbyImageData
-        }
       }
     }
   }
