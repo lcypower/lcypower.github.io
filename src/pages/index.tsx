@@ -49,6 +49,7 @@ export default function Index({
   )
 }
 
+
 export const query = graphql`
   query IndexPage {
     allContentfulPost(sort: { date: DESC }) {
