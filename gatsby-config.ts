@@ -3,13 +3,13 @@ import dotenv from 'dotenv'
 
 dotenv.config()
 
-const SITE_URL = 'https://jwkk1.github.io'
+const SITE_URL = 'https://lcypower.github.io'
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `works-tech-blog`,
-    description: '웍스컴바인 기술 블로그입니다',
-    siteUrl: `https://jwkk1.github.io`,
+    title: `lcypower blog`,
+    description: '이찬윤 개발자 블로그입니다',
+    siteUrl: `https://lcypower.github.io`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
