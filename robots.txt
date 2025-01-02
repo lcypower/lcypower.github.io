@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://lcypower.github.io/sitemap-index.xml
+Host: https://lcypower.github.io
