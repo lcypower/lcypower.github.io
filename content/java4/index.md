@@ -3,8 +3,7 @@ emoji: /i_s.webp
 title: 막 갈기는 스프링부트 - Controller
 date: '2025-01-03 23:00:00'
 author: LCY
-tags: blog gatsby theme 개츠비 테마
-categories: java springboot
+categories: springboot
 thumbnail: /c_s.webp
 description: Controller, Restful을 조져보자.
 ---

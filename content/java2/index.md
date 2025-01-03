@@ -3,8 +3,7 @@ emoji: /i_m.webp
 title: pom.xml 메이븐 조지기
 date: '2025-01-01 23:00:00'
 author: LCY
-tags: blog gatsby theme 개츠비 테마
-categories: java springboot
+categories: springboot maven
 thumbnail: /c_im.webp
 description: pom.xml 메이븐(Maven)을 사용하여 프로젝트 설정 및 빌드를 해보자.
 ---

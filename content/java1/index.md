@@ -3,7 +3,7 @@ emoji: /i_i.webp
 title: SpringBoot 프로젝트 만들기
 date: '2025-01-01 23:00:00'
 author: LCY
-categories: java springboot intellij
+categories: springboot intellij
 thumbnail: /c_is.webp
 description: intellij를 이용하여 스프링부트(Spring boot)의 프로젝트를 만들어 보자.
 ---

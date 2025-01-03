@@ -3,8 +3,7 @@ emoji: /i_g.webp
 title: Github이란?
 date: '2025-01-01 23:00:00'
 author: LCY
-tags: blog gatsby theme 개츠비 테마
-categories: java springboot
+categories: git
 thumbnail: /c_ig.webp
 description: Github을 왜 사용하는지, 어떻게 사용하지 알아보자.
 ---

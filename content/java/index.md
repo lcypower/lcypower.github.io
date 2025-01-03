@@ -3,7 +3,7 @@ emoji: /i_s.webp
 title: Spring Boot란?
 date: '2024-12-31 23:00:00'
 author: LCY
-categories: java springboot
+categories: springboot
 thumbnail: /c_s.webp
 description: 스프링부트란 무엇이며, 왜 사용하는지, 어떠한 툴을 이용하여 개발하는지 알아보자.
 ---
