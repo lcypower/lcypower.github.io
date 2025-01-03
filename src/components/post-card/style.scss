@@ -3,9 +3,13 @@
 
 .post-card-wrapper {
   min-height: 150px;
-  width: 24%;
+  width: 49%;
   display: flex;
   justify-content: center;
+
+  @include md {
+    width: 24%;
+  }
 
   .post-card {
     display: flex;
@@ -29,13 +33,8 @@
       }
     }
 
-    @include md {
-      margin-bottom: 0;
-    }
-
     .emoji img {
-      width: 150px;
-      height: 150px;
+      width: 100%;
     }
 
     .title {

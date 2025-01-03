@@ -1,7 +1,7 @@
 {
   "name": "lcypower.github.io",
   "private": false,
-  "description": "A neat blog theme for developers",
+  "description": "LCY's DevLog",
   "version": "3.0.0",
   "author": "lcypower <lcypower0@gmail.com>",
   "dependencies": {
@@ -57,9 +57,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog"
+    "url": "https://github.com/lcypower/lcypower.github.io"
   },
   "bugs": {
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog/issues"
+    "url": "https://github.com/lcypower/lcypower.github.io/issues"
   }
 }

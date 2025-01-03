@@ -1,0 +1,31 @@
+@use '../../styles/variables'as *;
+@use '../../styles/mixins'as *;
+
+.introduce-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 60px;
+
+  .introduce {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 55px;
+
+    .head {
+      font-size: 20px;
+      font-weight: 500;
+      padding-bottom: 15px;
+      list-style: circle;
+    }
+
+    .body {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+  }
+}
